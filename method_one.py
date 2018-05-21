@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 import random
-img = cv2.imread("but.jpg",0)
+img = cv2.imread("nux.png",0)
 cv2.imshow("Original",img)
 blur = cv2.bilateralFilter(img,5,5,10)
 can=cv2.Canny(img,200,300)
