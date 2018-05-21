@@ -1,7 +1,7 @@
 import cv2
 import random
 import numpy as np
-i=cv2.imread('pn.png',0)
+i=cv2.imread('nux.png',0)
 c=cv2.bilateralFilter(i,5,5,10)
 can=cv2.Canny(i,150,150)
 can=cv2.GaussianBlur(can,(11,11),0)
