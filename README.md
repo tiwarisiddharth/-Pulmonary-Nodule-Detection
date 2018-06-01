@@ -11,4 +11,9 @@ nux.png is the sample input image and one_op.png is the preprocessed output of u
 and two_op.png is the preprocessed output of using method_two.py on nux.png.
 
 
-Dependencies : Opencv version 3.4.1 used with Python 3.6.5
+Dependencies : Opencv version 3.4.1 used with Python 3.6.5 on ArchLinux
+
+
+![nux.png]
+![one.png]
+![two.png]
