@@ -14,6 +14,10 @@ and two_op.png is the preprocessed output of using method_two.py on nux.png.
 Dependencies : Opencv version 3.4.1 used with Python 3.6.5 on ArchLinux
 
 
-![nux.png](nux.png)
-![one.png](one.png)
-![two.png](two.png)
+Original image  ![nux.png](nux.png)
+
+
+Output of using method_one.py on nux.png  ![one.png](one_op.png)
+
+
+Output of using method_two.py on nux.png  ![two.png](two_op.png)
